@@ -32,6 +32,7 @@
 		21B3686324AE79C00091E836 /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21B3685624AE79BF0091E836 /* chilkoottrail.jpg */; };
 		21B3686424AE79C00091E836 /* lakemcdonald.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21B3685724AE79BF0091E836 /* lakemcdonald.jpg */; };
 		21B3686524AE79C00091E836 /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21B3685824AE79BF0091E836 /* stmarylake.jpg */; };
+		21B3686724AE7DA10091E836 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B3686624AE7DA10091E836 /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		21B3685624AE79BF0091E836 /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chilkoottrail.jpg; path = ../../../../Downloads/HandlingUserInput/StartingPoint/Landmarks/Landmarks/Resources/chilkoottrail.jpg; sourceTree = "<group>"; };
 		21B3685724AE79BF0091E836 /* lakemcdonald.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lakemcdonald.jpg; path = ../../../../Downloads/HandlingUserInput/StartingPoint/Landmarks/Landmarks/Resources/lakemcdonald.jpg; sourceTree = "<group>"; };
 		21B3685824AE79BF0091E836 /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = stmarylake.jpg; path = ../../../../Downloads/HandlingUserInput/StartingPoint/Landmarks/Landmarks/Resources/stmarylake.jpg; sourceTree = "<group>"; };
+		21B3686624AE7DA10091E836 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				2132DE8A24A23EEE00E05953 /* Info.plist */,
 				2132DE8424A23EEE00E05953 /* Preview Content */,
 				2101627224A6256D00EF0DF9 /* LandmarkList.swift */,
+				21B3686624AE7DA10091E836 /* UserData.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 				2132DE8124A23EEC00E05953 /* LandmarkDetail.swift in Sources */,
 				2101624E24A5EFDE00EF0DF9 /* Landmark.swift in Sources */,
 				2101625424A5FAA600EF0DF9 /* Data.swift in Sources */,
+				21B3686724AE7DA10091E836 /* UserData.swift in Sources */,
 				2101625724A5FB8400EF0DF9 /* LandmarkRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
